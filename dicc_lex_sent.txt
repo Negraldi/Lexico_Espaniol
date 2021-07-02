@@ -1,4 +1,4 @@
-"word"|"esp"|"vad.valence"|"vad.arousal"|"vad.dominance"|"sent.anger"|"sent.anticipation"|"sent.disgust"|"sent.fear"|"sent.joy"|"sent.sadness"|"sent.surprise"|"sent.trust"
+word|esp|vad.valence|vad.arousal|vad.dominance|sent.anger|sent.anticipation|sent.disgust|sent.fear|sent.joy|sent.sadness|sent.surprise|sent.trust
 "aaaaaaah"|"aaaaaaah"|0.479|0.606|0.291|0.000|0.000|0.000|0.344|0.000|0.000|0.000|0.000
 "aaaah"||0.520|0.636|0.282|0.000|0.000|0.000|0.234|0.000|0.000|0.000|0.000
 "aardvark"|"cerdo hormiguero"|0.427|0.490|0.437|0.014|0.001|0.000|0.003|0.000|0.004|0.000|0.000
